@@ -107,7 +107,7 @@ The JSON file should be structured as follows:
 This API is used for:
 - Fetching task data
 
-Once fetched the below functions, update the Task List on the local Pinia Store
+Once fetched the below functions update the Task List on the local Pinia Store
 - Creating new tasks
 - Updating existing tasks
 - Deleting tasks 
