@@ -39,7 +39,7 @@ npm install
 The app fetches task data from a JSON file stored on **GitHub**. You must create a **`.env`** file in the root directory and define the API URL:
 
 ```
-VITE_API_URL=https://raw.githubusercontent.com/your-username/your-repository/main/tasks.json
+VITE_API_URL="https://raw.githubusercontent.com/monakhi/GenerateJson/refs/heads/main/TaskList.json"
 ```
 
 ---
