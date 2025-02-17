@@ -36,7 +36,7 @@ npm install
 
 ### 3. Set Up the Environment Variables
 
-The app fetches task data from a JSON file stored on **GitHub**. You must create a **`.env`** file in the root directory and define the API URL:
+The app fetches task data from a JSON file stored on **GitHub** which is stored in the **`.env`** file in the root directory:
 
 ```
 VITE_API_URL="https://raw.githubusercontent.com/monakhi/GenerateJson/refs/heads/main/TaskList.json"
